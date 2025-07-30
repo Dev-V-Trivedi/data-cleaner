@@ -1,0 +1,4 @@
+# Ultra-minimal requirements (no pandas for compatibility)
+fastapi==0.100.1
+uvicorn==0.23.2
+python-multipart==0.0.6
