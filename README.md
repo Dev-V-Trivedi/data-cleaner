@@ -447,7 +447,7 @@ If this project helps you or your business:
 ## 🚀 Quick Start
 
 ### 🌐 Use Online (Recommended)
-Visit our live frontend: **[CSV Data Cleaner](https://your-frontend-url.netlify.app)**
+Visit our live frontend: **[CSV Data Cleaner](https://csvclean.tech)**
 
 ### 🛠️ Run Locally
 
@@ -655,8 +655,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - 🐛 **Bug Reports**: [GitHub Issues](https://github.com/Dev-V-Trivedi/data-cleaner/issues)
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/Dev-V-Trivedi/data-cleaner/discussions)
-- ☕ **Support Development**: [Buy Me a Coffee](https://buymeacoffee.com/devvtrivedi)
-- 📧 **Contact**: dev.v.trivedi@gmail.com
+- ☕ **Support Development**: [Buy Me a Coffee](https://buymeacoffee.com/devtrivedi)
+- 📧 **Contact**: [dev@hikariwebworks.studio](mailto:dev@hikariwebworks.studio)
 - 💼 **LinkedIn**: [Dev V Trivedi](https://linkedin.com/in/dev-v-trivedi)
 
 ## 🌟 Show Your Support
