@@ -12,7 +12,7 @@
 
 [![Live API](https://img.shields.io/badge/🔗_Live_API-Render-10B981?style=for-the-badge)](https://data-cleaner-api-8bga.onrender.com)
 [![API Docs](https://img.shields.io/badge/📚_API_Docs-Swagger-85EA2D?style=for-the-badge)](https://data-cleaner-api-8bga.onrender.com/docs)
-[![Support Dev](https://img.shields.io/badge/☕_Support-Buy_Coffee-FF813F?style=for-the-badge)](https://buymeacoffee.com/devvtrivedi)
+[![Support Dev](https://img.shields.io/badge/☕_Support-Buy_Coffee-FF813F?style=for-the-badge)](https://buymeacoffee.com/devtrivedi)
 
 </div>
 
